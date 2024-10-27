@@ -3,7 +3,8 @@ Learn Scraping
 A simple repository with examples, documentation, and improved code snippets to help you learn web scraping basics.
 
 ## Topic
-_wip_
+* [Scraping with Beautiful Soup](/0001-scraping-with-beautiful-soup/README.md)
+
 
 ## Contributors
 * Agung Yuliyanto
