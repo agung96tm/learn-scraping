@@ -4,7 +4,7 @@ A simple repository with examples, documentation, and improved code snippets to 
 
 ## Topic
 * [Scraping with Beautiful Soup](/0001-scraping-with-beautiful-soup/README.md)
-
+* [XPath](/0002-xpath/README.md)
 
 ## Contributors
 * Agung Yuliyanto
